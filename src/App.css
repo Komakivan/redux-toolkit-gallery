@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Heebo:wght@300;400;500;600;700&family=Inter:wght@200;300;400;500;600;700&family=Kaushan+Script&display=swap');
+
+
+
+.App {
+  text-align: center;
+}
+
+
+body {
+  font-family: 'inter';
+}
+
+h1 {
+  font-family: 'Kaushan Script';
+}
+
+img {
+  margin: 2px;
+  object-fit: cover;
+}
+
+hr {
+  margin: 20px 400px;
+}
+
+.gallery {
+  margin: 5px 90px;
+}
